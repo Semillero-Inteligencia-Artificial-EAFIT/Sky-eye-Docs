@@ -1,0 +1,81 @@
+*  Skyeye
+** Hardware
+ El hardware cobra importancia a la hora de obtener la conexion y datos del satelite 
+
+** Satelites NOAA 15, 18, 19
+Los Satelites a los que nos conectamos actualmente son los NOAA 15,18 y 19 , son satelites meterologicos  polares
+
+*** Polares
+
+significa que dan vueltas al mundo y no estan fijos como los satelites Geostacionarios como los Goes o Meteosat , cada vuelta en estos satelites puede durar 110 minutos como maximo
+
+**** desventajas
+
+     la mayoria del tiempo no estan disponibles
+
+**** ventajas
+
+tienen mejor señal para cosas mas cacharreras como Skyeyye
+     
+*** Geostacionarios
+
+estan fijos sobre la orbita de la tierra, los satelites de televicion son geostacionarios  
+
+*** NOAA's
+todos trasmiten de forma apt , (Automatic picture trasmicion)
+
+*** Noaa 15
+altura  798 - 813 km
+
+Frecuencia 137.620 Mhz FM
+
+https://www.amsat-ea.org/s/cc_images/teaserbox_10976491.jpg?t=1515424443
+*** Noaa 18
+altura 841 - 861 km
+
+Frecuencia 137.9125 Mhz FM
+
+https://www.amsat-ea.org/s/cc_images/teaserbox_10976528.jpg?t=1515424537
+
+
+*** Noaa 19
+altura 841 km - 862 km
+
+Frecuencia 137.100 Mhz FM
+https://www.amsat-ea.org/s/cc_images/teaserbox_10976554.jpg?t=1515773109
+
+** Antenas
+
+*** dipolo
+
+*** turn style
+
+** Software
+* resumen para poner en el banner
+** Hardware
+ El hardware cobra importancia a la hora de obtener la conexion y datos del satelite
+** Satelites NOAA
+** Satelites polares vs Geoestacionarios
+https://www.ias4sure.com/wp-content/uploads/2022/02/1-152.png
+** fichas tecnicas de estos satelites
+*** Noaa 15
+altura  798 - 813 km
+
+Frecuencia 137.620 Mhz FM
+
+https://www.amsat-ea.org/s/cc_images/teaserbox_10976491.jpg?t=1515424443
+*** Noaa 18
+altura 841 - 861 km
+
+Frecuencia 137.9125 Mhz FM
+
+https://www.amsat-ea.org/s/cc_images/teaserbox_10976528.jpg?t=1515424537
+
+
+*** Noaa 19
+altura 841 km - 862 km
+
+Frecuencia 137.100 Mhz FM
+https://www.amsat-ea.org/s/cc_images/teaserbox_10976554.jpg?t=1515773109
+
+*** Otros satelites seran incorporados en el futuro
